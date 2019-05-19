@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shegheizof.nightsale.info/sitemap.xml
